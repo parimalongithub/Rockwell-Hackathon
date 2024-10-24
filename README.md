@@ -14,7 +14,7 @@
 
 
 ### Architecture
-![Architecture](/architecture.png)
+![Architecture](/architeture.png)
 ## Technologies Used
 
 - **Backend**: Java Spring Boot
