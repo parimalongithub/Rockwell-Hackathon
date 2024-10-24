@@ -12,6 +12,9 @@
 - Clicking on a query retrieves a solution powered by **Large Language Models (LLM)**, streamlining the resolution process.
 - Admins have the ability to update the query status (e.g., In Progress, Resolved) and provide feedback to customers.
 
+##Architecture
+
+
 ## Technologies Used
 
 - **Backend**: Java Spring Boot
