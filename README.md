@@ -21,7 +21,6 @@
 - **Frontend**: React.js
 - **Database**: MongoDB
 - **AI Model**: Large Language Model (LLM)
-- **Hosting**: Azure (or specify other hosting, if applicable)
 - **Build Tool**: Maven for backend, npm for frontend
 
 ## Hackathon Recognition
